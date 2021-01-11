@@ -1,4 +1,4 @@
-# Dobby
+<h1 align="center">Dobby Discord Management System</h1>
 <p align="center"><img src="https://img.pngio.com/dobby-the-goblin-transparent-png-stickpng-dobby-png-620_349.png"></p>
 
 ![GitHub all releases](https://img.shields.io/github/downloads/alimsahy/Dobby/total?style=for-the-badge)
