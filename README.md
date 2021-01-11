@@ -1,6 +1,7 @@
 <h1 align="center">Dobby Discord Management System</h1>
 <p align="center"><img src="https://img.pngio.com/dobby-the-goblin-transparent-png-stickpng-dobby-png-620_349.png"></p>
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/alimsahy/Dobby)
 ![GitHub all releases](https://img.shields.io/github/downloads/alimsahy/Dobby/total?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/alimsahy/Dobby?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/alimsahy/Dobby?style=for-the-badge)
