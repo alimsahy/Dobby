@@ -7,7 +7,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/alimsahy/Dobby?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alimsahy/Dobby?style=for-the-badge)
 <br />
-*An open source cross-platform desktop application that allow you to manage your discord server easly*
+*An open-source, cross-platform desktop application that allow you to manage your discord server easly*
 
 
 # About
