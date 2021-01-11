@@ -10,3 +10,4 @@
 *An open source cross-platform desktop application that allow you to manage your discord server easly*
 
 
+# About
