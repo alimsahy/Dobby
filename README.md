@@ -15,6 +15,7 @@
 
 # Features
 
+- Multi-server management
 - Guild management
 - Advanced channel and category management
 - Advanced guild member management
